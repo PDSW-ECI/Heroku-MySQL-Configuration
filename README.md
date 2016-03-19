@@ -33,6 +33,7 @@ Para crear una base de datos MySQL asociada a su aplicación en Heroku, siga los
 	| Parámetro     | Valor         | 
 | ------------- |:-------------|
 | Host      | us-cdbr-iron-east-03.cleardb.net |
+| Puerto | 3306 (el usado por defecto)     |
 | Usuario     | b2adds22s553bd3      |
 | Contraseña | 50232cc6      |
 | Nombre de la base de datos | heroku_87acf5efed82e1      |
